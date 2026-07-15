@@ -14,7 +14,7 @@ The full centerline extraction algorithm is not publicly released in this reposi
 
 ## Graphical summary
 
-![Graphical summary of the Voronoi-based coronary centerline extraction workflow](docs/graphical_summary.png)
+![Graphical summary of the Voronoi-based coronary centerline extraction workflow](coronary_centerline_voronoi_graphical_summary_final.png)
 
 ## What is included
 
